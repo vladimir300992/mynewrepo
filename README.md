@@ -1,2 +1,2 @@
 # mynewrepo
-A repo created to learn connecting to GitHub remotly
+A repo created to learn connecting to GitHub remotly, pushing and pulling
